@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Soulbringer</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Ravebow/Soulbringer-any-.asl/main/Soulbringer%20-%20Any%25.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Gejoh</Description>
+        <Website>https://www.speedrun.com/soulbringer</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Zone Runner 2</Game>
         </Games>
         <URLs>
